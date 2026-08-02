@@ -1,2 +1,2 @@
 # AI-Assignments
-Using AI to build 
+Used Loveable to build different exercises given in class...
